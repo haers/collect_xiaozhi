@@ -6,6 +6,8 @@
 
 1. [官网](https://xiaozhi.me/)
 2. [官网教程，飞书链接](https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb)
+3. [虾哥的 b 站](https://space.bilibili.com/59357679)
+4. [GitHub 源码](https://github.com/78/xiaozhi-esp32)
 
 
 
@@ -14,6 +16,7 @@
 1. [Python 变种](https://www.bilibili.com/video/BV1HmPjeSED2/?vd_source=2ca41774711e613e95653165a9abbfce#reply255921347937)
 
 - 主要是不需要硬件支持了，可以在电脑上运行小智客户端，可以做很多实验验证。
+- [源码](https://github.com/Huang-junsen/py-xiaozhi)
 
 
 
